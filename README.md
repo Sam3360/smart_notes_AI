@@ -162,4 +162,4 @@ Built as a **local alternative to AI note tools**, focused on:
 
 ## 👨‍💻 Author
 
-Built by a student exploring AI + development 🚀
+Samarth Chugh
